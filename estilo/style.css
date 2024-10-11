@@ -1,17 +1,39 @@
 @charset "UTF-8";
 
 /* Ajuste para telas menores, como celulares e tablets */
-@media only screen and (max-width: 1024px){
-    body {
-      background-size: contain; /* Mantém a proporção da imagem */
-      background-position: top; /* Alinha ao topo */
- }
+  
+@media (max-width: 768px) {
+    
+    .principal{
+
+    background-color: black;
+    background-image: url('/imagens/fundo-850.jpg');
+    background-repeat: no-repeat;
+    bottom: 0;
+    color: black;
+    left: 0;
+    overflow: hidden;
+    padding: 2em;
+    position: fixed;
+    right: 0;
+    top: 0;
+    background-position: right center;
+    background-size: cover;
 }
+}
+    
 
 *{
     box-sizing: border-box;
 }
 
+html { 
+    background: url('/imagens/fundo.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
 
 body{
     background-color: black;
@@ -118,7 +140,18 @@ nav > ul > li > a:hover{
     padding: 20px;
     width: 400px; /* Largura da caixa */
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5); /* Sombra */
-   
+       
+}
+
+
+.iframe-container {
+    position: fixed; /* Fixa o iframe na tela para garantir que ele ocupe 100% */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden; /* Remove qualquer rolagem extra */
+    background-color: black; /* Cor de fundo enquanto o vídeo carrega */
 }
 
 
