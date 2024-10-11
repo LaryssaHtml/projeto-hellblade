@@ -235,3 +235,34 @@ a{
     transform: scale(1.2);
 }
 
+
+.voltar {
+    position: absolute;
+    top: 20px; 
+    left: 20px; /* Distância do lado esquerdo */
+    text-align: center;
+    z-index: 10; /* Garante que o botão fique acima do iframe */
+}
+
+.voltar button {
+    margin-top: 0px;
+    padding: 8px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0);
+    border: none;
+    color: white;
+}
+
+
+.imagem-voltar{
+    width: 50px;
+    height: 50px;
+    display: block;
+    margin-bottom: 0;
+    margin-left: 15%;
+}
+
+
+
+
