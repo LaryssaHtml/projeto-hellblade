@@ -8,21 +8,21 @@
     }
         .principal{
     
-        background-color: black;
-        background-image: url('/imagens/fundo-850.jpg');
-        background-repeat: no-repeat;
-        bottom: 0;
-        color: black;
-        left: 0;
-        overflow: hidden; 
-        position: relative;
-        right: 0;
-        top: 0;
-        background-position: right center;
-        background-size: cover;
-        margin: 0;
-       }
-      
+                background-color: black;
+                background-image: url('/imagens/fundo-850.jpg');
+                background-repeat: no-repeat;
+                background-position: center center;
+                background-size: cover; /* Mantém a imagem cobrindo a tela */
+                margin: 0;
+                overflow: hidden;
+                padding: 2em 2em 2em 20px; 
+                position: fixed;
+                left: 0;
+                right: 0;
+                top: 0;
+                bottom: 0;
+        }
+        
        .principal .logo{
         margin-top: 0%;
         top: 100px;
