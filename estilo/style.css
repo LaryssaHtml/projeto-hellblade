@@ -47,9 +47,28 @@
         width: 300px;
     }
 
+     .saida{
+        width: 100px;
+        margin-top: 70%;
+    }
+
+    .opcoes, .opcao{
+        width: 370px;
+        height: 68px;
+        margin-top: 2%;
+        margin: 0%;
+        padding-top:  24%;
+        padding-left: 0px;
+        padding-right: 0px;
+        justify-content: space-between;
+        display: flex;
+        overflow: visible;
+        position: relative;
+
+    }
+
 }
    
-
 
 *{
     box-sizing: border-box;
