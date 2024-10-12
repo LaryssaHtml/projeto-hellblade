@@ -1,10 +1,10 @@
 @charset "UTF-8";
 
-/* Ajuste para telas menores, como celulares e tablets */
-  
+
+
 @media (max-width: 768px) {
     
-    .principal{
+    body.principal{
 
     background-color: black;
     background-image: url('/imagens/fundo-850.jpg');
@@ -13,7 +13,7 @@
     color: black;
     left: 0;
     overflow: hidden; 
-    position: fixed;
+    position: relative;
     right: 0;
     top: 0;
     background-position: right center;
