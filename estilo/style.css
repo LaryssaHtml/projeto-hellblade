@@ -3,73 +3,75 @@
 
 
 @media (max-width: 768px) {
+    body {
+        margin: 0; /* Remove qualquer margem extra do body */
+    }
+        .principal{
     
-    body.principal{
-
-    background-color: black;
-    background-image: url('/imagens/fundo-850.jpg');
-    background-repeat: no-repeat;
-    bottom: 0;
-    color: black;
-    left: 0;
-    overflow: hidden; 
-    position: relative;
-    right: 0;
-    top: 0;
-    background-position: right center;
-    background-size: cover;
-    margin: 0;
-   }
-  
-   .principal .logo{
-    margin-top: 0%;
-    top: 100px;
-    padding-right: 36%;
-    padding-left: 0%;
-    width: 408px;
-    height: 50px;
-   
-   
-   }
-       
-   .principal .simbolo{
-     margin-left: 35%;
-     width: 95px;
-     height: 95px;
-   }
-
-   .principal nav{
-     margin-right: 100%;
-     margin-top: 20%;
-   }
-      
-    .principal nav > ul > li > a{
-        margin-bottom: 5px;
-        width: 300px;
-    }
-
-     .saida{
-        width: 100px;
-        margin-top: 70%;
-    }
-
-    .opcoes, .opcao{
-        width: 370px;
-        height: 68px;
-        margin-top: 2%;
-        margin: 0%;
-        padding-top:  24%;
-        padding-left: 0px;
-        padding-right: 0px;
-        justify-content: space-between;
-        display: flex;
-        overflow: visible;
+        background-color: black;
+        background-image: url('/imagens/fundo-850.jpg');
+        background-repeat: no-repeat;
+        bottom: 0;
+        color: black;
+        left: 0;
+        overflow: hidden; 
         position: relative;
-
+        right: 0;
+        top: 0;
+        background-position: right center;
+        background-size: cover;
+        margin: 0;
+       }
+      
+       .principal .logo{
+        margin-top: 0%;
+        top: 100px;
+        padding-right: 36%;
+        padding-left: 0%;
+        width: 408px;
+        height: 50px;
+       
+       
+       }
+           
+       .principal .simbolo{
+         margin-left: 35%;
+         width: 95px;
+         height: 95px;
+       }
+    
+       .principal nav{
+         margin-right: 100%;
+         margin-top: 20%;
+       }
+          
+        .principal nav > ul > li > a{
+            margin-bottom: 5px;
+            width: 300px;
+        }
+    
+         .saida{
+            width: 100px;
+            margin-top: 70%;
+        }
+    
+        .opcoes, .opcao{
+            width: 370px;
+            height: 68px;
+            margin-top: 2%;
+            margin: 0%;
+            padding-top:  24%;
+            padding-left: 0px;
+            padding-right: 0px;
+            justify-content: space-between;
+            display: flex;
+            overflow: visible;
+            position: relative;
+    
+        }
+    
     }
 
-}
-   
 
 *{
     box-sizing: border-box;
