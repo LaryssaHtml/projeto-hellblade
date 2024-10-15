@@ -4,23 +4,8 @@
 
 @media (max-width: 768px) {
     
-    body {
-        background-color: black; /* Cor de fundo padrão */
-        background-image: url('../imagens/fundo-850.jpg') !important;
-        background-repeat: no-repeat;
-        background-position: center center; /* Centraliza a imagem */
-        background-size: cover; /* Mantém a imagem cobrindo a tela */
-        margin: 0; /* Remove a margem padrão */
-        overflow: hidden; /* Remove a rolagem extra */
-        padding: 2em 2em 2em 20px; /* Ajuste de padding */
-        position: fixed; /* Mantém o conteúdo fixo na tela */
-        left: 0;
-        right: 0;
-        top: 0;
-        bottom: 0;
-    }
-                
-        
+
+           
 
           .logo{
         margin-top: 0%;
