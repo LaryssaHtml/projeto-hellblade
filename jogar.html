@@ -5,10 +5,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Iniciar novo jogo</title>
     <style>
-        body{
-            background-image: url(imagens/loading.jpg);
+        @media (max-width: 768px) {
+
+            body.iniciar-jogo{
+            height: 100vh;
+            background-image: url('../imagens/loading-cell.jpeg');
             background-color: black;
-    
+            background-position: center center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-attachment: fixed;
+            overflow: hidden;
+           }
+        }
+        body{
+            background-image: url('../imagens/loading.jpg');
+            background-color: black;
             background-position: center center;
             background-repeat: no-repeat;
             height: 100vh;
@@ -30,7 +42,8 @@
         }
     </style>
 </head>
-<body>
+<body class="iniciar-jogo">
       <button><a href="index.html">Voltar</a></button>
+    
 </body>
 </html>

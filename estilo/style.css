@@ -7,11 +7,11 @@
 
         .principal{
             height: 100vh;
-            background-image: url('../imagens/fundo-850.jpg');
+            background-image: url('../imagens/fundo-cell.jpg');
             background-position: center center;
             background-repeat: no-repeat;
             background-size: cover;
-            background-attachment: scroll;
+            background-attachment: fixed;
             overflow: hidden;
             margin: 0;
             padding: 0;
@@ -30,9 +30,10 @@
        }
            
         .simbolo{
-         margin-left: 35%;
-         width: 95px;
-         height: 95px;
+         margin-left: 35.5%;
+         width: 150px;
+         height: 150px;
+         content: url('../imagens/simbolo-edit.gif');
        }
     
          nav{
@@ -64,7 +65,9 @@
             position: relative;
     
         }
-    
+         .opcoes{
+            background-image: url('../imagens/fundo-cell.jpg');
+         }
     } 
 
 
