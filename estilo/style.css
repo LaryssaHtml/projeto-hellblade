@@ -5,7 +5,18 @@
 @media (max-width: 768px) {
     
 
-           
+        .principal{
+            height: 100vh;
+            background-image: url('../imagens/fundo-850.jpg');
+            background-position: center center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-attachment: scroll;
+            overflow: hidden;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }   
 
           .logo{
         margin-top: 0%;
