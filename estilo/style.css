@@ -5,7 +5,7 @@
 @media (max-width: 768px) {
     
 
-        .principal{
+            .principal{
             height: 100vh;
             background-image: url('../imagens/fundo-cell.jpg');
             background-position: center center;
@@ -18,56 +18,51 @@
             box-sizing: border-box;
         }   
 
-          .logo{
-        margin-top: 0%;
-        top: 100px;
-        padding-right: 36%;
-        padding-left: 0%;
-        width: 408px;
-        height: 50px;
-       
-       
-       }
+            .principal .logo{
+            top: 100px;
+            padding-right: 11%;
+            padding-left: 5%;
+            width: 405px;
+            height: 60px;
+           }
            
-        .simbolo{
-         margin-left: 35.5%;
-         width: 150px;
-         height: 150px;
-         content: url('../imagens/simbolo-edit.gif');
-       }
+            .simbolo{
+            margin-left: 36%;
+            width: 105px;
+            height: 105px;
+            content: url('../imagens/simbolo-edit.gif');
+           }
     
-         nav{
-         margin-right: 100%;
-         margin-top: 20%;
-       }
+            nav{
+            margin-right: 70%;
+            margin-top: 18%;
+          }
           
-         nav > ul > li > a{
-            margin-bottom: 5px;
-            width: 300px;
-        }
+            nav > ul > li > a{
+                margin-bottom: 5px;
+                width: 300px;
+          }
     
-         .saida{
-            width: 100px;
-            margin-top: 70%;
-        }
+            .saida{
+                width: 100px;
+                margin-top: 70%;
+            }
     
-        .opcoes, .opcao{
-            width: 370px;
-            height: 68px;
-            margin-top: 2%;
-            margin: 0%;
-            padding-top:  24%;
-            padding-left: 0px;
-            padding-right: 0px;
-            justify-content: space-between;
-            display: flex;
-            overflow: visible;
-            position: relative;
-    
-        }
-         .opcoes{
-            background-image: url('../imagens/fundo-cell.jpg');
-         }
+            .opcoes, .opcao{
+                width: 370px;
+                height: 68px;
+                margin-top: 2%;
+                margin: 0%;
+                padding-top:  24%;
+                justify-content: space-between;
+                display: flex;
+                overflow: visible;
+                position: relative;
+            }
+
+            .opcoes{
+                background-image: url('../imagens/foto2.jpeg');
+            }
     } 
 
 
