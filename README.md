@@ -1,12 +1,12 @@
-# Projeto Senua's Sacrifice - Hellblade
+# _Projeto Senua's Sacrifice - Hellblade_
  
-> # Aviso de Direitos
+> # &copy; Aviso de Direitos
 
-<p>As imagens utilizadas neste projeto não são de minha autoria. Todos os direitos sobre as imagens pertencem aos seus respectivos criadores. Este projeto foi criado apenas para fins de aprendizado, como um projeto de fã, e não possui intenções comerciais. Caso alguma imagem precise ser removida ou creditada de outra forma, por favor, entre em contato.</p>
+<p>As imagens utilizadas neste projeto não são de minha autoria. Todos os direitos sobre as imagens pertencem aos seus respectivos criadores. Este projeto foi criado apenas para fins de aprendizado, como um projeto de fã, não tenho intuito algum de prejudicar e não possui intenções comerciais. Caso alguma imagem precise ser removida ou creditada de outra forma, por favor, entre em contato.</p>
 
-<a href="https://laryssahtml.github.io/projeto-hellblade/" target="_blank">Link do Site</a>
+<a href="https://laryssahtml.github.io/projeto-hellblade/">&#x1F517;Link do Site</a>
 
-## Contato
+## &#x1F4AC; Contato
 
 <p>Para entrar em contato, você pode me encontrar nos seguintes canais:</p>
 
@@ -15,12 +15,23 @@
 
 <p>Fique à vontade para entrar em contato!</p>
 
- ## Tecnologias utilizadas
-   <p>HTML, CSS e GitHub.
+ ## &#x1F310; Tecnologias utilizadas
+   
+   <p>
+        <p align="center">Ferramentas</p>
+        <ul style="list-style: square; padding: 0;">
+        <li><span style="color: #E34F26;">HTML</span></li>
+        <li><span style="color: #1572B6;">CSS</span></li>
+        <li><span style="color: #6e5494;">GitHub</span></li>
+        <li><span style="color: #FF0000;">YouTube</span></li>
+        </ul>
+    </p>
+  
 
- > # Licença
- <p>Esse projeto está sob a licença MIT</p> 
+ > # &#x1F4DD; Licença
+ <p>Esse projeto está sob a licença <span style="color: #17138F">MIT</span></p> 
  <img src="./imagens/license-mit-blue.png" alt="license">
+ <hr>
 
 
- 
+ <pre align="center"> By: Laryssa Ferreira ★ </pre>
