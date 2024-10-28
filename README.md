@@ -20,16 +20,16 @@
    <p>
         <p align="center">Ferramentas</p>
         <ul style="list-style: square; padding: 0;">
-        <li><span style="color: #E34F26;">HTML</span></li>
-        <li><span style="color: #1572B6;">CSS</span></li>
-        <li><span style="color: #6e5494;">GitHub</span></li>
-        <li><span style="color: #FF0000;">YouTube</span></li>
+        <li>&#x1F7E7; HTML</li>
+        <li>&#x1F535; CSS</li>
+        <li>&#x1F7E3; GitHub</li>
+        <li>&#x1F534; YouTube</li>
         </ul>
     </p>
   
 
  > # &#x1F4DD; Licença
- <p>Esse projeto está sob a licença <span style="color: #17138F">MIT</span></p> 
+ <p>Esse projeto está sob a licença MIT</p> 
  <img src="./imagens/license-mit-blue.png" alt="license">
  <hr>
 
