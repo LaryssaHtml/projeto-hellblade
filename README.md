@@ -10,7 +10,7 @@
 
 <p>Para entrar em contato, você pode me encontrar nos seguintes canais:</p>
 
-- ![Email Icon](https://img.icons8.com/ios-filled/20/A76CE2/email.png) **E-mail:** [laryssaferreira26@gmail.com](mailto:seuemail@exemplo.com)
+- ![Email Icon](https://img.icons8.com/ios-filled/20/A76CE2/email.png) **E-mail:** [laryssaferreira26@gmail.com](mailto:laryssaferreira26@gmail.com)
 - ![Instagram Icon](https://img.icons8.com/ios-filled/20/A76CE2/instagram-new.png) **Instagram:** [@lyssa_artsx](https://www.instagram.com/lyssa_artsx/)
 
 <p>Fique à vontade para entrar em contato!</p>
